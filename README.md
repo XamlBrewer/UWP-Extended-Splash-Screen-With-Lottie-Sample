@@ -8,3 +8,5 @@ I just took the official extended splash screen sample (https://docs.microsoft.c
 The app's main page shows how a Lottie animation can (more or less) subtly draw attention to a button. Please note that this animation does not loop - unlike the following animated gif:
 
 ![MainPage](Assets/AppMain.gif?raw=true "Main Page")
+
+The background from this main page is designed by Freepik (http://www.freepik.com).
